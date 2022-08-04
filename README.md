@@ -1,5 +1,5 @@
 # Events Web Server - Step 1
-## Technology
+## Technology We Use
 * NodeJS version 16 or greater as the Web Server
 * Express for RESTful Routes
 * Morgan for Logging
